@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Sudeep2704
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Web development, MySQL, Shell Script, Java, JavaScript
 - 📫 How to reach me: ds.sudeep04@gmail.com
 - 😄 Pronouns:
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am also an Content Writer
 
 <!---
 Sudeep2704/Sudeep2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
