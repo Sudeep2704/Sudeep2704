@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeep2704" alt="sudeep2704" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portsite-five.vercel.app/](https://portsite-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.sudeep.tech](www.sudeep.tech)
 
 - 📫 How to reach me **ds.sudeep04@gmail.com**
 
