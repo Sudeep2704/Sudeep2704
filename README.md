@@ -14,7 +14,7 @@
 - 💬 Ask me about **Java, React.js, Node.js, and Web Development**
 - 📫 Reach me at **ds.sudeep04@gmail.com**
 - ⚡ Fun fact — **I eat Bugs for breakfast 🐛 and build things that work!**
-- 🎯 Goal for 2025 — **Contribute to Open Source and build impactful full-stack projects**
+- 🎯 Goal for 2026 — **Contribute to Open Source and build impactful full-stack projects**
 
 ---
 
