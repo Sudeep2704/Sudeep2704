@@ -62,17 +62,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/sudeep2704/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeep2704&repo=Weather-App&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sudeep2704/Invoice-Checking-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeep2704&repo=Invoice-Checking-App&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## 📈 Activity Graph
