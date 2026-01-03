@@ -2,107 +2,109 @@
 <h3 align="center">🚀 A Passionate Tech Nerd & Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudeep2704&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep2704" />
+  <img src="https://komarev.com/ghpvc/?username=sudeep2704&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Deployment**
-- 👨‍💻 All of my projects are available at [**sudeep.tech**](https://sudeep.tech)
-- 💬 Ask me about **Java, React.js, Node.js, and Web Development**
+- 🌱 Currently learning **Next.js, TypeScript, and Cloud Deployment**
+- 👨‍💻 Portfolio: [**sudeep.tech**](https://sudeep.tech)
+- 💬 Ask me about **Java, React.js, Node.js, Web Development**
 - 📫 Reach me at **ds.sudeep04@gmail.com**
-- ⚡ Fun fact — **I eat Bugs for breakfast 🐛 and build things that work!**
-- 🎯 Goal for 2026 — **Contribute to Open Source and build impactful full-stack projects**
+- ⚡ Fun fact — **I eat bugs for breakfast 🐛 and build things that work!**
+- 🎯 2026 Goal — **Contribute to Open Source & build impactful full-stack products**
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sudeep-kumar-manna-190356273/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:ds.sudeep04@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="https://sudeep.tech" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=vercel" alt="portfolio" height="40" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+## 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,git,github,postman,python,bootstrap,tailwind,figma,vscode" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeep2704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudeep2704&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep2704&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sudeep2704&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeep2704&show_icons=true&locale=en&layout=compact&exclude_repo=Recommender-System-using-DL,Study-on-Japan-Life-Expectancy,Digit-Recognition-using-Neural-Network,Student-Analysis-Model,Airline-Prediction-Model&hide=jupyter%20notebook&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudeep2704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep2704&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <a href="https://github.com/sudeep2704/Weather-App" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudeep2704&theme=tokyonight&row=1&no-frame=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sudeep2704/Weather-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeep2704&repo=Weather-App&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sudeep2704/Invoice-Checking-App" target="_blank">
+  <a href="https://github.com/sudeep2704/Invoice-Checking-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudeep2704&repo=Invoice-Checking-App&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">📈 Activity Graph</h3>
+## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeep2704&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudeep2704&theme=tokyo-night" />
 </p>
 
 ---
 
-<h3 align="center">💬 Random Developer Quote</h3>
+## 💬 Random Developer Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">⚙️ Fun Metrics</h3>
+## 🎮 When I'm not coding
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sudeep2704&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  🏋️‍♂️ Gym &nbsp;|&nbsp; 🎧 Lo-Fi Music &nbsp;|&nbsp; 🎮 Strategy Games &nbsp;|&nbsp; 🌱 Exploring Tech
 </p>
 
 ---
 
-<h3 align="center">🎮 When I'm not coding...</h3>
-<p align="center">
-  🏋️‍♂️ I hit the gym | 🎧 I enjoy Lo-Fi music | 🎮 I play strategy games | 🌱 I love exploring new tech
-</p>
+## 💡 Motto
 
----
-
-<h3 align="center">💡 Motto</h3>
 <p align="center">
   <em>“Everything happens for a reason. Stay consistent — build strong foundations, not shortcuts.”</em>
 </p>
