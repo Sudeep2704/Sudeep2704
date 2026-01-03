@@ -90,7 +90,10 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudeep2704&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudeep2704"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
