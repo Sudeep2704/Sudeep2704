@@ -45,17 +45,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeep2704&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sudeep2704&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudeep2704&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=sudeep2704&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep2704&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep2704&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🏆 GitHub Achievements
